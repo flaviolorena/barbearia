@@ -1,0 +1,65 @@
+
+body{
+    color: darkblue;
+}
+
+#banner{
+    width: 100%;
+}
+
+.titulop{
+    padding-left: 20px;
+}
+.principal {
+    background-color: #e4e4e4;
+    padding: 30px;
+
+}
+
+.tituloc{
+    text-align: center;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    width: 100%;
+    background-color: #ffffff;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 20px;
+    border: 0;
+
+}
+
+ul{
+    /*ocupa so o espaco dela*/
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgbeneficios{
+    width: 50%;
+}
+
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+}
+em strong{
+    color: darkgoldenrod;
+}
+
+/*aula 4 video 3 */ 
+
+
